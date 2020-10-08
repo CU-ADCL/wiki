@@ -1,2 +1,3 @@
-# wiki
-A wiki full of helpful tips for ASEN PhD students at CU Boulder
+# Wiki
+
+Nothing is here - please go to the wiki section to see the content.
