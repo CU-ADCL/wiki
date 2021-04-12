@@ -42,6 +42,8 @@ CSCI 5722 Computer Vision
 
 STAT 5610 Statistical Learning
 
+CSCI 5254 Convex Optimization and Its Applications
+
 APPM 5440 Applied Analysis 1
 
 ASEN 6024 Nonlinear Control Systems
