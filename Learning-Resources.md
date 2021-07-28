@@ -7,3 +7,4 @@ CS 285 | This is the Deep Reinforcement Learning, Decision Making, and Control c
 CS 231n | This is the Convolutional Neural Networks for Visual Recognition course at Stanford  | The main course page can be found here [CS231n](http://cs231n.stanford.edu/2017/).
 The Missing Semester of Your CS Education | This is a course offered at MIT inteded to fill gaps in the CS education that covers a lot of "expected" knowledge | The main course page can be found here [missing-semester](https://missing.csail.mit.edu/).
 Introduction to Computational Thinking | This is a course offered at MIT designed to introduce computational thinking using Julia. | The main course page can be found here [comp-thinking](https://computationalthinking.mit.edu/Fall20/).
+How To Read a Paper | You will be reading a lot of papers in your PhD; here is a paper telling you how to do it | https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
