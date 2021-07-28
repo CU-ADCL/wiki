@@ -8,3 +8,5 @@ CS 231n | This is the Convolutional Neural Networks for Visual Recognition cours
 The Missing Semester of Your CS Education | This is a course offered at MIT inteded to fill gaps in the CS education that covers a lot of "expected" knowledge | The main course page can be found here [missing-semester](https://missing.csail.mit.edu/).
 Introduction to Computational Thinking | This is a course offered at MIT designed to introduce computational thinking using Julia. | The main course page can be found here [comp-thinking](https://computationalthinking.mit.edu/Fall20/).
 How To Read a Paper | You will be reading a lot of papers in your PhD; here is a paper telling you how to do it | https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+How to Write a Paper | Papers are the primary output of researchers. This website gives some guidance on how to write one | https://cs.stanford.edu/people/widom/paper-writing.html
+How to review a paper | You should start reviewing papers for conferences and journals during your time as a student. This paper gives some instructions | https://www.cs.utexas.edu/users/mckinley/notes/reviewing-smith.pdf
