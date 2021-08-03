@@ -1,7 +1,7 @@
 # Suggested Course List
 ## Fall 2021
 
-| Course Number                         | Course Title                                  | Link          |
+| Course Number                         | Course Title                                  | Link/Notes    |
 |---------------------------------------|-----------------------------------------------|---------------|
 | **Robotics, Estimation and Controls** |                                               |               |
 | ASEN 5014                             | Linear Control Systems                        |               |
@@ -9,6 +9,7 @@
 | ASEN 5067                             | Microavionics                                 |               |
 | CSCI 5302                             | Advanced Robotics                             |               |
 | ASEN 5519                             | Algorithmic Motion Planning                   |               |
+| ASEN 6024                             | Nonlinear Control Systems                     |               |
 | **Artificial Intelligence**           |                                               |               |
 | CSCI 5622                             | Machine Learning                              |               |
 | CSCI 5854                             | Theoretical Foundations of Autonomous Systems |               |
@@ -16,11 +17,11 @@
 | CSCI 7000                             | Recent Advances in Computer Vision            |               |
 | CSCI 7000                             | Advanced Machine Learning                     |               |
 | CSCI 7000                             | Learning and Sequential Decision-Making       |               |
+| ASEN 6519                             | Advanced Survey of Sequential Decision Making |               |
 | **Math**                              |                                               |               |
 | CSCI 5254                             | Convex Optimization and Its Applications      |               |
 | APPM 5440                             | Applied Analysis 1                            |               |
 | STAT 6510                             | Statistical Learning                          |               |
-| ASEN 6024                             | Nonlinear Control Systems                     |               |
 | **Other**                             |                                               |               |
 | CSCI 5576                             | High-Performance Scientific Computing         |               |
 
