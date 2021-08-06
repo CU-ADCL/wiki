@@ -1,4 +1,4 @@
-# Suggested Course List
+# Course List for AI/Robotics/Controls
 ## Fall 2021
 
 | Course Number                         | Course Title                                  | Link/Notes    |
