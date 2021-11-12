@@ -7,11 +7,14 @@ If you know of any relevant courses that are not on this list - please help us b
 |---------------------------------------|-----------------------------------|---------------|
 | **Robotics, Estimation and Controls** |                                   |               |
 | MCEN 5115                             | Mechatronics and Robotics I       |               |
+| CSCI 5423                             | Biologically-inspired Multi-Agent Systems|               |
+| ASEN 6519-002                         | Hybrid Systems                    |               |
+| ASEN 6519-003                         | Cooperative Control               |               |
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
 | **Math**                              |                                   |               |
-| ASEN 6519                             | Advanced State Estimation         |               |
+| ASEN 6519-005                         | Advanced State Estimation         |               |
 
 ### Fall 2021
 
