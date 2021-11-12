@@ -1,5 +1,7 @@
 # Course List for AI/Robotics/Controls
 
+If you know of any relevant courses that are not on this list - please help us by adding it! Click the pencil edit icon in the top right corner and create a pull request. Your contribution is greatly appreciated!
+
 ### Spring 2022
 | Course Number                         | Course Title                      | Link/Notes    |
 |---------------------------------------|-----------------------------------|---------------|
