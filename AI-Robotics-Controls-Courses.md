@@ -6,7 +6,7 @@
 | **Robotics, Estimation and Controls** |                                   |               |
 | MCEN 5115                             | Mechatronics and Robotics I       |               |
 | **Artificial Intelligence**           |                                   |               |
-| ASEN 5519                             | Decision Making under Uncertainty |               |
+| ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
 | **Math**                              |                                   |               |
 | ASEN 6519                             | Advanced State Estimation         |               |
