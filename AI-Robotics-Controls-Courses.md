@@ -1,5 +1,17 @@
 # Course List for AI/Robotics/Controls
-## Fall 2021
+
+### Spring 2022
+| Course Number                         | Course Title                      | Link/Notes    |
+|---------------------------------------|-----------------------------------|---------------|
+| **Robotics, Estimation and Controls** |                                   |               |
+| MCEN 5115                             | Mechatronics and Robotics I       |               |
+| **Artificial Intelligence**           |                                   |               |
+| ASEN 5519                             | Decision Making under Uncertainty |               |
+| CSCI 5722                             | Computer Vision                   |               |
+| **Math**                              |                                   |               |
+| ASEN 6519                             | Advanced State Estimation         |               |
+
+### Fall 2021
 
 | Course Number                         | Course Title                                  | Link/Notes    |
 |---------------------------------------|-----------------------------------------------|---------------|
@@ -25,13 +37,4 @@
 | **Other**                             |                                               |               |
 | CSCI 5576                             | High-Performance Scientific Computing         |               |
 
-### Spring 2022
-| Course Number                         | Course Title                      | Link          |
-|---------------------------------------|-----------------------------------|---------------|
-| **Robotics, Estimation and Controls** |                                   |               |
-| MCEN 5115                             | Mechatronics and Robotics I       |               |
-| **Artificial Intelligence**           |                                   |               |
-| ASEN 5519                             | Decision Making under Uncertainty |               |
-| CSCI 5722                             | Computer Vision                   |               |
-| **Math**                              |                                   |               |
-| ASEN 6519                             | Advanced State Estimation         |               |
+
