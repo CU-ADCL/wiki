@@ -7,12 +7,15 @@ If you know of any relevant courses that are not on this list - please help us b
 |---------------------------------------|-----------------------------------|---------------|
 | **Robotics, Estimation and Controls** |                                   |               |
 | MCEN 5115                             | Mechatronics and Robotics I       |               |
+| MCEN 5228-021                         | Mechatronics 2                    |               |
 | CSCI 5423                             | Biologically-inspired Multi-Agent Systems|               |
 | ASEN 6519-002                         | Hybrid Systems                    |               |
 | ASEN 6519-003                         | Cooperative Control               |               |
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
+| CSCI 5922                             | Neural Networks and Deep Learning |               |
+| CSCI 6314                             | Algorithmic Economics             | "Other topics may include game theory, mechanism design / auction theory, forecasting mechanisms, and voting / social choice theory."|
 | **Math**                              |                                   |               |
 | ASEN 6519-005                         | Advanced State Estimation         |               |
 
