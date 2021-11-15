@@ -11,13 +11,13 @@ If you know of any relevant courses that are not on this list - please help us b
 | CSCI 5423                             | Biologically-inspired Multi-Agent Systems|               |
 | ASEN 6519-002                         | Hybrid Systems                    |               |
 | ASEN 6519-003                         | Cooperative Control               |               |
+| ASEN 6519-005                         | Advanced State Estimation         |               |
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
 | CSCI 5922                             | Neural Networks and Deep Learning |               |
 | CSCI 6314                             | Algorithmic Economics             | "Other topics may include game theory, mechanism design / auction theory, forecasting mechanisms, and voting / social choice theory."|
 | **Math**                              |                                   |               |
-| ASEN 6519-005                         | Advanced State Estimation         |               |
 
 ### Fall 2021
 
