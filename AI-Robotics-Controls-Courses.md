@@ -20,6 +20,8 @@ If you know of any relevant courses that are not on this list - please help us b
 | **Math**                              |                                   |               |
 | MATH 5510                             | Introduction to Probability Theory |               |
 | MATH 5520                             | Introduction to Mathematical Statistics |               |
+| APPM 5120                             | Introduction to Operations Research |               |
+
 ### Fall 2021
 
 | Course Number                         | Course Title                                  | Link/Notes    |
