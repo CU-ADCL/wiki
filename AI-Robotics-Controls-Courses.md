@@ -18,7 +18,7 @@ If you know of any relevant courses that are not on this list - please help us b
 | CSCI 5922                             | Neural Networks and Deep Learning |               |
 | CSCI 6314                             | Algorithmic Economics             | "Other topics may include game theory, mechanism design / auction theory, forecasting mechanisms, and voting / social choice theory."|
 | **Math**                              |                                   |               |
-
+| MATH 5510                             | Introduction to Probability Theory |               |
 ### Fall 2021
 
 | Course Number                         | Course Title                                  | Link/Notes    |
