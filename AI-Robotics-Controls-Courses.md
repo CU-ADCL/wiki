@@ -8,7 +8,7 @@ If you know of any relevant courses that are not on this list - please help us b
 | **Robotics, Estimation and Controls** |                                   |               |
 | MCEN 5115                             | Mechatronics and Robotics I       |               |
 | MCEN 5228-021                         | Mechatronics 2                    |               |
-| CSCI 5423                             | Biologically-inspired Multi-Agent Systems|               |
+| CSCI 5423                             | Biologically-inspired Multi-Agent Systems|        |
 | ASEN 6519-002                         | Hybrid Systems                    |               |
 | ASEN 6519-003                         | Cooperative Control               |               |
 | ASEN 6519-005                         | Advanced State Estimation         |               |
