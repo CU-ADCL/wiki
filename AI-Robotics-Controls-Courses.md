@@ -12,6 +12,7 @@ If you know of any relevant courses that are not on this list - please help us b
 | ASEN 6519-002                         | Hybrid Systems                    |               |
 | ASEN 6519-003                         | Cooperative Control               |               |
 | ASEN 6519-005                         | Advanced State Estimation         |               |
+| CSCI 7000-001                         | Robotic Manipulation              | 
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
