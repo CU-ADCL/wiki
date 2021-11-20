@@ -2,7 +2,7 @@
 
 If you know of any relevant courses that are not on this list - please help us by adding it! Click the pencil edit icon in the top right corner and create a pull request. Your contribution is greatly appreciated!
 
-### Spring 2022
+## Spring 2022
 | Course Number                         | Course Title                      | Link/Notes    |
 |---------------------------------------|-----------------------------------|---------------|
 | **Robotics, Estimation and Controls** |                                   |               |
@@ -25,7 +25,7 @@ If you know of any relevant courses that are not on this list - please help us b
 | MATH 5520                             | Introduction to Mathematical Statistics |               |
 | APPM 5120                             | Introduction to Operations Research |               |
 
-### Fall 2021
+## Fall 2021
 
 | Course Number                         | Course Title                                  | Link/Notes    |
 |---------------------------------------|-----------------------------------------------|---------------|
