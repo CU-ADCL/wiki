@@ -13,11 +13,13 @@ If you know of any relevant courses that are not on this list - please help us b
 | ASEN 6519-003                         | Cooperative Control               |               |
 | ASEN 6519-005                         | Advanced State Estimation         |               |
 | CSCI 7000-001                         | Robotic Manipulation              | 
+| ASEN 6020                             | Optimal Trajectories
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
 | CSCI 5922                             | Neural Networks and Deep Learning |               |
 | CSCI 6314                             | Algorithmic Economics             | "Other topics may include game theory, mechanism design / auction theory, forecasting mechanisms, and voting / social choice theory."|
+| CSCI 5622                             | Machine Learning                  |               |
 | **Math**                              |                                   |               |
 | MATH 5510                             | Introduction to Probability Theory |               |
 | MATH 5520                             | Introduction to Mathematical Statistics |               |
