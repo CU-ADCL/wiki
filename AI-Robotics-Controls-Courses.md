@@ -6,14 +6,19 @@ If you know of any relevant courses that are not on this list - please help us b
 | Course Number                         | Course Title                      | Link/Notes    |
 |---------------------------------------|-----------------------------------|---------------|
 | **Robotics, Estimation and Controls** |                                   |               |
+| MCEN/ECEN 5138                        | Control Systems Analysis          |               |
+| ECEN 5638                             | Control Systems Laboratory        |               |
 | MCEN 5115                             | Mechatronics and Robotics I       |               |
 | MCEN 5228-021                         | Mechatronics 2                    |               |
 | CSCI 5423                             | Biologically-inspired Multi-Agent Systems|        |
+| ECEN 5738                             | Theory of Nonlinear Systems       |               |
+| ECEN 5828                             | Hybrid Dynamical Systems: Theory and Applications| |
+| ASEN 6020                             | Optimal Trajectories              |               |
 | ASEN 6519-002                         | Hybrid Systems                    |               |
 | ASEN 6519-003                         | Cooperative Control               |               |
 | ASEN 6519-005                         | Advanced State Estimation         |               |
-| CSCI 7000-001                         | Robotic Manipulation              | 
-| ASEN 6020                             | Optimal Trajectories
+| CSCI 7000-001                         | Robotic Manipulation              |               |
+| ECEN 5028                             | Special Topics: Constrained Control|              |
 | **Artificial Intelligence**           |                                   |               |
 | ASEN 5519                             | Decision Making under Uncertainty | Online and Offline MDP, POMDP, RL, and Game solution methods |
 | CSCI 5722                             | Computer Vision                   |               |
