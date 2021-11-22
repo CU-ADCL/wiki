@@ -26,9 +26,10 @@ If you know of any relevant courses that are not on this list - please help us b
 | CSCI 6314                             | Algorithmic Economics             | "Other topics may include game theory, mechanism design / auction theory, forecasting mechanisms, and voting / social choice theory."|
 | CSCI 5622                             | Machine Learning                  |               |
 | **Math**                              |                                   |               |
-| MATH 5510                             | Introduction to Probability Theory |               |
-| MATH 5520                             | Introduction to Mathematical Statistics |               |
-| APPM 5120                             | Introduction to Operations Research |               |
+| MATH 5510                             | Introduction to Probability Theory |              |
+| MATH 5520                             | Introduction to Mathematical Statistics |         |
+| APPM 5120                             | Introduction to Operations Research |             |
+| CSCI 5434                             | Probability for Computer Science  |               |
 
 ## Fall 2021
 
