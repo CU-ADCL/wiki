@@ -11,3 +11,4 @@ How To Read a Paper | You will be reading a lot of papers in your PhD; here is a
 How to Write a Paper | Papers are the primary output of researchers. This website gives some guidance on how to write one | https://cs.stanford.edu/people/widom/paper-writing.html
 How to review a paper | You should start reviewing papers for conferences and journals during your time as a student. This paper gives some instructions | https://www.cs.utexas.edu/users/mckinley/notes/reviewing-smith.pdf
 SLAM and Estimation | Cyrill Stachniss has a youtube channel with many introductory mini-lectures | https://www.youtube.com/channel/UCi1TC2fLRvgBQNe-T4dp8Eg
+Neural Network Training | Andrej Karpathy has an excellent blog post on training Neural Networks that includes common pitfalls | http://karpathy.github.io/2019/04/25/recipe/
