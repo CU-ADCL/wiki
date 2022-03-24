@@ -1,3 +1,11 @@
+---
+**NOTE**
+
+This list has moved: https://docs.google.com/spreadsheets/d/1-7LU1xVnkfJMTRTMNMyoVYBctCAsVx3-fXQbBtrRETk/edit?usp=sharing
+
+---
+
+
 # Course List for AI/Robotics/Controls
 
 If you know of any relevant courses that are not on this list - please help us by adding it! Click the pencil edit icon in the top right corner and create a pull request. Your contribution is greatly appreciated!
